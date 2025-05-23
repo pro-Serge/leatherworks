@@ -1,1 +1,3 @@
-# leatherworks
+# Leather templates
+
+Simply bifold wallet
